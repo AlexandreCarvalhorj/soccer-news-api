@@ -1,5 +1,6 @@
 {
    {
+     "id": 1,
      "title": "Bola de Ouro",
      "description": "revista divulga indicadas para o prêmio de melhor jogadora",
      "image": "https://alexandrecarvalhorj.github.io/soccer-news-api/images/1.webp",
@@ -7,6 +8,7 @@
    },
 
    {
+     "id": 2,
      "title": "Vaga na elite!",
      "description": "Bahia empata com Minas Brasília e garante acesso para Série A1 do Brasileiro",
      "image": "https://alexandrecarvalhorj.github.io/soccer-news-api/images/2.webp",
@@ -14,6 +16,7 @@
    },
 
    {
+     "id": 3,
      "title": "HISTÓRICO!",
      "description": "Real Ariquemes despacha o Fortaleza-CE e vai jogar a Série A1 de 2023",
      "image": "https://alexandrecarvalhorj.github.io/soccer-news-api/images/3.webp",
